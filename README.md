@@ -1,3 +1,5 @@
-# FreeCodeCamp-Responsive Web Design Projects
+# FreeCodeCamp
+## Responsive Web Design Projects
 
- - Build a Personal Portfolio Project
+ - Personal Portfolio Project
+
